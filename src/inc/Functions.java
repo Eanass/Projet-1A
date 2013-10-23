@@ -19,4 +19,4 @@ public class Functions
 			return "1";
 		return "0";
 	}
-}
+} // Test
